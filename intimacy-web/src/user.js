@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Contacts from './components/contacts';
+import Contacts from './components/Contacts';
 
 class User extends Component {
 	state = {

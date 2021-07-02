@@ -16,8 +16,6 @@ const Contacts = ({ contacts }) => {
 				</div>
 			))
 			};
-
-
 		</div >
 	)
 };
